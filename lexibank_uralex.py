@@ -51,7 +51,7 @@ When you are using UraLex 2.0, you should also cite the following papers which i
 
 and
 
-> Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+> Syrjänen, Kaj, Luke Maurits, Unni-Päivä Leino, Terhi Honkola, Jadranka Rota & Outi Vesakoski. 2021. “Crouching TIGER, hidden structure: Exploring the nature of linguistic data using TIGER values”. Journal of Language Evolution 6(2). 99–118. https://doi.org/10.1093/jole/lzab004
 
 """,
             desc,
