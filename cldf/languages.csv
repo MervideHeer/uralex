@@ -14,11 +14,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 114,Kildin Saami (Lovozero),,,,,,,,,Saami
 115,Ter Saami,ters1235,Ter Saami,sjt,Eurasia,67.2458,38.5061,Uralic,,Saami
 201,Meänkieli Finnish,torn1244,Meänkieli,fit,Eurasia,67.2527,23.066,Uralic,,Finnic
-<<<<<<< HEAD
 202,Kven Finnish,kven1236,Kven Finnish,fkv,Eurasia,70.31894,25.56202,Uralic,,Finnic
-=======
-202,Kven Finnish,kven1236,Kven Finnish,fkv,Eurasia,69.3772,29.5434,Uralic,,Finnic
->>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
 203,Standard Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,,Finnic
 204,Karelian Proper,kare1335,Karelian,krl,Eurasia,65.1691,30.8655,Uralic,,Finnic
 205,Livvi-Karelian,livv1243,Livvi,olo,Eurasia,61.6565,29.0726,Uralic,,Finnic
@@ -45,8 +41,4 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 902,Tundra Nenets,nene1249,Tundra Nenets,,Eurasia,66.1775,71.0234,Uralic,Linguist list code: yrk-tun,Samoyed
 907,Selkup,tazz1244,Taz-Turukhan,,Eurasia,65.7035,82.4441,Uralic,Taz dialect of Selkup,Samoyed
 908,Kamas,kama1351,Kamas-Koibal,xas,Eurasia,55.07,94.83,Uralic,,Samoyed
-<<<<<<< HEAD
 909,Mator,mato1250,Mator-Taigi-Karagas,mtm,Eurasia,53.403,92.9339,Uralic,,Samoyed
-=======
-909,Mator,mato1250,Mator-Taigi-Karagas,mtm,Eurasia,53.4349,102.856,Uralic,,Samoyed
->>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
