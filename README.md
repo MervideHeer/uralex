@@ -5,7 +5,7 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](releases/) you were using
+this dataset using the DOI of the [particular released version](../../releases/) you were using
 
 When you are using UraLex 2.0, you should also cite the following papers which introduce the dataset:
 
@@ -31,8 +31,8 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 27
-- **Concepts:** 313
+- **Varieties:** 27 (linked to 26 different Glottocodes)
+- **Concepts:** 313 (linked to 313 different Concepticon concept sets)
 - **Lexemes:** 10,231
 - **Sources:** 42
 - **Synonymy:** 1.22
