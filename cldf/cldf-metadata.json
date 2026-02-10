@@ -12,25 +12,41 @@
         {
             "rdf:about": "https://github.com/lexibank/uralex",
             "rdf:type": "prov:Entity",
+<<<<<<< HEAD
             "dc:created": "v1.0-26-gea8a25d",
+=======
+            "dc:created": "v2.0-1-g0fe64e1",
+>>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
+<<<<<<< HEAD
             "dc:created": "v5.2.1-28-g6597452a46",
+=======
+            "dc:created": "v5.1",
+>>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
+<<<<<<< HEAD
             "dc:created": "v3.4.0-62-g339dff57",
+=======
+            "dc:created": "v3.2.0",
+>>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
+<<<<<<< HEAD
             "dc:created": "v2.3.0",
+=======
+            "dc:created": "v2.3.0-4-g824176a",
+>>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
             "dc:title": "CLTS"
         }
     ],
@@ -41,7 +57,11 @@
         },
         {
             "dc:title": "python",
+<<<<<<< HEAD
             "dc:description": "3.12.3"
+=======
+            "dc:description": "3.13.1"
+>>>>>>> 203c02f10220ff526fe13f4b9dd607f94b11a05e
         },
         {
             "dc:title": "python-packages",
